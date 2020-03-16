@@ -2,7 +2,8 @@
 
 Repository for March 2020 webex call with OCF on OSCORE.
 
-Time: Wednesday, 18. March 2020 12:00-13:00 CET (11:00-12:00 UTC).
+Time: Wednesday, 18 March 2020 12:00-13:00 CET (11:00-12:00 UTC).
+(Potential follow-on: Thursday, 19 March 2020 12:00-13:00 CET (11:00-12:00 UTC).)
 
 See also [time in different time zones](https://www.timeanddate.com/worldclock/converter.html?iso=20200318T110000&p1=224&p2=165&p3=136&p4=37&p5=239&p6=101&p7=235&p8=240).
 
@@ -24,4 +25,4 @@ Join using Microsoft Lync or Microsoft Skype for Business: Dial 641247522.ietf@l
 
 ## Agenda
 
-TBD
+(Will be bashed playing by ear.)
