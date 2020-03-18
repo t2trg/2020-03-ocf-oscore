@@ -23,6 +23,15 @@ Join from a video system or application: Dial 641247522@ietf.webex.com
 Join using Microsoft Lync or Microsoft Skype for Business: Dial 641247522.ietf@lync.webex.com
 
 
-## Agenda
+## Agenda & notes
 
-(Will be bashed playing by ear.)
+Live notes: https://hackmd.io/@G-qLhvWWQ5i-HVrfquEHWA/BkaDa_J8U
+
+Draft agenda:
+
+* CoRE / ACE / LAKE  overview? (Marco)
+* OCF and OSCORE (Phil)
+  * Explain how OCF plans to use OSCORE for End to End Security of Unicast Messages.
+  * Explain how OCF expects to use ACE, EDHOC 
+  * OCF interim plan: "Directly Provisioned" OSCORE Security Contexts
+
